@@ -54,13 +54,13 @@ devIDs = firstID[ntrain:]
 dstrain = [d for d in ds if d.ids[0] in trainIDs]
 dsdev   = [d for d in ds if d.ids[0] in devIDs]
 
-with open("tmptrain.tootids."+suffix,"w") as f:
+with open("../corpus/tmptrain.tootids."+suffix,"w") as f:
     for d in dstrain: f.write(d.ids2str())
-with open("tmpdev.tootids."+suffix,"w") as f:
+with open("../corpus/tmpdev.tootids."+suffix,"w") as f:
     for d in dsdev: f.write(d.ids2str())
 
-with open("tmptrain.wds."+suffix,"w") as f:
+with open("../corpus/tmptrain.wds."+suffix,"w") as f:
     for d in dstrain: f.write(d.tostr())
-with open("tmpdev.wds."+suffix,"w") as f:
+with open("../corpus/tmpdev.wds."+suffix,"w") as f:
     for d in dsdev: f.write(d.tostr())
 

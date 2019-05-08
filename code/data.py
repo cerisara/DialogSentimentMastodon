@@ -54,7 +54,7 @@ class MastoData():
 
         testFold=[]
         curdialog=[]
-        with open(corpdir+"../datatestJoint.idx","r") as f:
+        with open(corpdir+"/datatestJoint.idx","r") as f:
             for l in f:
                 tweet = Tweet(l)
                 if tweet.isFirstTweet:

@@ -11,5 +11,6 @@ For cross-validation, datatrainJoint must be splitted with the script splitXval.
 
 # Running experiments
 
+First split the training corpus for cross-validation with splitXval.sh
 Look into the script launch.sh
 
