@@ -2,10 +2,14 @@
 
 The original corpus can be found within the files:
 
-- datatrainJoint.idx : contains a unique identifier for the post
 - datatrainJoint.txt : contains the anonymized text
-- datatestJoint.idx : contains a unique identifier for the post
+- datatrainJoint.idx : contains the same text encoded with a lexicon
 - datatestJoint.txt : contains the anonymized text
+- datatestJoint.idx : contains the same text encoded with a lexicon
 
 For cross-validation, datatrainJoint must be splitted with the script splitXval.sh
+
+# Running experiments
+
+Look into the script launch.sh
 
