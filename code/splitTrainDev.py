@@ -30,8 +30,8 @@ class Dialog:
 
 suffix = sys.argv[1]
 
-with open("datatrainJoint.idx","r") as f: lines=f.readlines()
-with open("datatrainJoint.txt","r") as f: lines2=f.readlines()
+with open("../corpus/datatrainJoint.idx","r") as f: lines=f.readlines()
+with open("../corpus/datatrainJoint.txt","r") as f: lines2=f.readlines()
 assert len(lines)==len(lines2)
 
 # build all dialogs from train, with their tweet ids
