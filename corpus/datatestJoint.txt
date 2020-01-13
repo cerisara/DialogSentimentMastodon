@@ -1,0 +1,1142 @@
+0 -_I anon is ... not an aries but i am still Here for This 
+1 -_D hmmm , blossom as a libra , not so sure 
+2 -_D I haven't watched the newer version , but based off of the older PPG I don't totally disagreeand also , all of them would technically be one sign which ... doesn't make sense 
+3 -_I the newer version is fucking atrocious 
+4 -_A I believe it lmao 
+0 *_I OK , it looks like I'm now <URL> . I'll see if I can consider that my " home " - - 
+1 -_I I don't think anybody will miss me here . 
+2 +_R Follow me there , maybe I'll accidentally say something interesting . 
+3 +_I " ... maybe I'll accidentally say something interesting . " Or maybe even on purpose ! Now followed - 
+4 +_H and welcome . 
+0 +_I Deleted my Facebook account a few days ago and I never felt so free in my entire life . 
+1 +_E Now I just have to encourage my closest friends to do the same . 
+2 -_I It shouldn't be that hard . 
+3 -_I They are as tired of social media as I am . 
+4 +_A Of course that you are welcome to you :) anon 
+0 +_I remember when i thought dsa was the best and furthest left socialist org 
+1 -_I hey i mean . listen . if none of us here grew ideologically we'd all just still be soft centre socdems or worse ? 
+2 +_I instead we're all on this journey of growth and learning together 
+0 -_I anon is ... not an aries but i am still Here for This 
+1 *_I anon is true though . 
+2 -_I always sad lmao . like that's me to a tea 
+0 -_I for your trip - it is meltingly hot here . melting . 
+1 -_S just saying , if you can pack an air conditioner , I would . :) 
+2 -_I <MENTION> Coming via Dubai which is 44degrees ... 
+3 -_M oh my goodness - 
+4 +_H good luck ! 
+0 -_H hey grandma what the fuck 
+1 +_I ive found the real me 
+2 *_I your final form ... 
+0 -_S no offense but kinks should not ever be posted publicly anywhere unless there is an agreed upon tag and blacklist feature 
+1 -_A I mean , yes , I agree . :P We * were * using rot 13 back then , and post-scope wasn't really a thing yet . It was a different time ~ Now we all have locked AD accounts where we make followers-only posts and use CWs . 
+0 *_R step 1 : go to <URL> 2 : download and install a clientstep 3 : add my tox id or send your tox id to me.step 4 : from there it should be standard IM-ish . 
+1 *_Q <MENTION> would my instance be relaying other users ' messages ( a la bitmessage ? ) 
+0 *_H hey , 
+1 -_Q have you been able to get permalinks working on wordpress with openbsd ? 
+2 -_I it looks like it can only be done , at best , with a hack . 
+3 *_W I hadn't noticed any issues , but I haven't mucked with permalinks on any site I've set up in years . 
+4 *_R Definitely ask on the mailing list 
+5 *_A will do , 
+6 +_T thanks man . 
+7 *_I theres scant info out there . 
+8 +_I this is one thing that was missing from the book , which was otherwise awesome ;-) ) 
+0 *_I the people need a Leninist analysis of Wakandan political economy . They demand it 
+1 -_R listen you need to handle this i'm up to my neck in marxism-leninism-zeonism here 
+2 -_I this post is not a joke 
+0 +_I started writing up a blog post about my first hackathon . some fun memories in there . 
+1 +_R write faster 
+2 +_I this is a very specific story , with a very specific moral I want people to take home 
+3 +_R so write it even faster.Seriously . 
+4 *_I Your heart knows better than your brain . Worrying about the moral will ruin it . 
+5 *_R Just vomit out the tale , set it aside , look at it tomorrow , put it out . 
+6 -_I I'm late for another appointment , and I wanted someone to review the existing draft . 
+7 +_I Hopefully I can finish it up tomorrow . 
+0 -_I Some idiot who never played the latest update for Cities : Skylines placed a traffic light in the middle of a motorway . 
+1 *_Q pedestrian crossing maybe ? 
+2 *_W 1 ) pedestrian crossings are labeled differently , 2 ) there is actually a traffic light there . 
+3 *_A I just checked yandex , google and OSM and there are pedestrian crossing there and it is marked on OSM and Yandex , on Google's streetview there are pedestrian traffic lights too . 
+0 *_Q my face ? 
+1 -_Q ugly ? 
+2 -_I its more likely than you think 
+3 -_I I'm tired of your lies anon 
+4 +_I I'm tired you're fuckin beautiful 
+5 +_I i love you so much :') youre too kind 
+0 +_I started writing up a blog post about my first hackathon . some fun memories in there . 
+1 +_R write faster 
+2 +_I this is a very specific story , with a very specific moral I want people to take home 
+3 +_R so write it even faster.Seriously . 
+4 *_I Your heart knows better than your brain . Worrying about the moral will ruin it . 
+5 *_R Just vomit out the tale , set it aside , look at it tomorrow , put it out . 
+6 -_I I don't write nearly as prolifically as <MENTION> does 
+7 +_A but writing it now and setting it aside is fantastic advice . 
+8 +_I You'll might learn something about what you're writing you don't even know right now , too . 
+9 *_I ( it's not lost on me that had I set aside and read that toot , I would've caught " You'll might learn " ) 😄 
+0 -_R From Other Bird , an idea : Replace all instances of " Cloud " with " Clown " . Clown compute . Clown storage . Clown networking . 
+1 *_I There's a lot of places we can go from here . 
+2 -_I also a lot of places we could run screaming from ... 
+3 +_I I feel the need to point out that running screaming is going places . I mean , yes , we're running * from * the clowns , but we're going * somewhere * , right ? It's progress ! 
+0 -_O When did my birdsite timeline become hard vore 
+1 -_I I never asked for this 
+2 -_I I'm sorry . 
+3 *_R check the FT and hope for better soft vore ? :-/ 
+4 *_Q The Financial Times ? 
+5 *_O ( Aaah , what does FT mean ? ) 
+6 *_Q Federated Timeline ? 
+7 *_W I think that's what people use , but maybe not . I don't know . You gosh darn kids and your pogs and your hula hoops . 
+8 *_W = " Public timeline " which is our old school way of referring to what is now called the FTL , Federated Timeline . I don't see ppl saying LTL they usually just say local TL 
+9 *_I ok , FTL , LTL , PTLI'm saying LTL 
+0 *_Q my face ? 
+1 -_Q ugly ? 
+2 -_I its more likely than you think 
+3 -_W Very Wrong 
+4 +_I 💜 love you :) 
+5 +_I love u too sweetie ! 
+0 +_I maybe I was the cutest girl on ganoo slesh soshul all along 
+1 -_R fite me 
+2 *_I ur on mastodon 
+3 -_I only because #pleroma isn't finished yet and i didn't want to run LAMP shit . 
+4 *_I i used to be on social.heldscal.la 
+5 -_I ( not to be confused with the much more evil social.headsca.la ) and loadaverage before that ( and iamover18.org before that ) 
+6 *_I installing php and nginx isn't magic 
+7 *_I She also wanted an iOS app . 
+8 -_I There aren't any for GS . 
+9 -_R hahaha fn dropped abandon your smartphones you fucking normies or i'll have the CIA drone you 
+10 -_I Implying we aren't all already drones in today's society . 
+11 -_I oh that's why the brits are bombing each other 
+0 -_I like I really didn't realize how toxic it was and how bad it made me feel until I started spending most of my time here 
+1 -_A could not agree more . 
+2 +_I My feed is generally pretty good 
+3 -_I but if I decide to read replies I just spiral . It is overwhelming . 
+0 -_I Huh , the number of boosts that my post about the Evil Villain Society Of Doom and Puppies shows the wrong number of boosts . 
+1 *_Q Is there some user setting that keeps a persons boosts from being publicly visible or something ? 
+2 -_W I think that it's just that boosts don't always federate very well , just because federation . 
+3 -_A yep you won't see boosts made from other instances properly 
+4 -_A At least , not unless mastodon.social federates with them 
+0 *_Q my face ? 
+1 -_Q ugly ? 
+2 -_I its more likely than you think 
+3 -_D extremely incorrect 
+4 +_I i love you with all my heart anon im so :') 💞 💞 💞 
+0 -_O why is everyone ded 
+1 -_W because fkn Tusky no display notifications 
+2 *_I the web app allows sending notifications , 
+3 *_O why use third party app 
+4 *_W Exactly 
+0 +_I maybe I was the cutest girl on ganoo slesh soshul all along 
+1 -_R fite me 
+2 *_I ur on mastodon 
+3 -_I only because #pleroma isn't finished yet and i didn't want to run LAMP shit . 
+4 *_I i used to be on social.heldscal.la 
+5 -_I ( not to be confused with the much more evil social.headsca.la ) and loadaverage before that ( and iamover18.org before that ) 
+6 *_I installing php and nginx isn't magic 
+7 +_I i know * how * to do it , 
+8 -_I but i don't want to 
+0 *_I me on mothers day vs . me on fathers day 
+1 *_A Same . Same . Tbh . <MENTION> 
+0 -_I you failed . 
+1 -_E shhhhh 
+2 *_H good morning good morning 
+3 *_H good morning 
+4 +_I you're gay & i hope ur feeling alright ! ! 
+5 +_T thank you love ! ! 
+6 +_T same to you ! 💞 
+0 -_I I'll probably still be pretty snarky over here . It's not like I was a stranger to that before my time on the Birdsite . 
+1 -_S If you feel like there's some shit ppl . shouldn't joke about , 
+2 *_R or if you're not sure whether I'm being facetious or not , just <MENTION> me . 
+3 +_S Now that we have somewhere else to go , we can light matches at the bird's nest . 
+0 *_R somebody good at astrology decribe my signs : Aries SunLeo RisingScorpio Moonty xo 
+1 +_J omg for real may I ? ? ? 
+2 +_I I love astrology , it's my hobby ! ! 
+3 +_S ask anything you'd like , 
+4 +_T thanks for the interest 
+0 +_Q when a girl keeps blinding you with the reflection of the sun off her phone screen in the bus is she signalling that she wants to hold hands ? 
+1 *_W only if the flash pattern is .. - . .. - - . - . - . - - - . or maybe ... - - - . - .. - .. - - . 
+0 -_I it's funny how rawstyle and hardcore techno have really woke lyrics but the people listening to it are still wageslaves who suck up to authority all day 
+1 *_I if you were a rebel in real life you wouldn't have to listen to rebel music . 
+0 +_I Deleted my Facebook account a few days ago and I never felt so free in my entire life . 
+1 +_E Now I just have to encourage my closest friends to do the same . 
+2 +_I It shouldn't be that hard . 
+3 -_I They are as tired of social media as I am . 
+4 -_A yes ! I don't get it . Everyone I talk to about Facebook--EVERYONE - - hates it , but none of them will take action . 
+5 -_I It's so frustrating ! 
+6 -_I People always have an excuse not to leave Facebook , even though they don't like it . 
+7 -_I they have a reason they use as an excuse , but it's not strong enough to actually justify the harm they're perpetuating for themselves and others . 
+0 +_I Friends , I'll have Breath of the Wild downloaded by tomorrow , aside from the other games I have . 
+1 *_I If you have something to tell me do it tonight cuz I will probably stay away for a week 
+2 -_I lol its not t h a t good 
+0 +_Q when a girl keeps blinding you with the reflection of the sun off her phone screen in the bus is she signalling that she wants to hold hands ? 
+1 +_W dude , she wants it ! 
+0 +_I it's so much fun ! 
+1 -_I I just also had to bring my own pillowcase and towel so as not to stain hotel stuff c . c 
+2 +_F lol nice : 3 
+3 *_I hehe I want my hair blueee 
+0 *_I I'm staring at the Rayman Legends sale for $ 20 & pushing hard on the temptation to get it with DK Tropical Freeze rnWhat am I even doing LMAO 
+1 +_R Do it ! ! ! 
+2 +_I Legends is better than Tropical Freeze imo ( but they are both great ) 
+0 *_I Hey , a headsup , we ( mastodon.social ) are going to apply the silence back again . We've had a discussion about it 
+1 +_E and will publish more info about it soon . 
+2 +_I A public process of appeal will become available to you via discourse if you would want it lifted in the future . 
+3 -_O whats the silence ? 
+0 +_I Deleted my Facebook account a few days ago and I never felt so free in my entire life . 
+1 +_E Now I just have to encourage my closest friends to do the same . 
+2 +_I It shouldn't be that hard . 
+3 -_I They are as tired of social media as I am . 
+4 +_I I deleted mine many years ago , 
+5 -_I but then suddenly about a month ago it mysteriously got activated again and I started getting notifications . I suspect they never actually delete any data . 
+0 +_O whats ur top fav 
+1 +_I ( my top is probably if it counts , yoshiko and the key of evil spirits opening ) 
+2 -_W My favorite ... this is hard . 
+3 +_W Shinkenger's pretty good . Black RX is amazing . Both of Go-Busters are great . I think I have to go with Akibaranger's 
+4 +_W As for ending themes . Jetman , Carraaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaanger , Megaranger , Magiranger .. and more 
+5 -_I messed that up , but whatever . 
+0 +_O whats ur top fav 
+1 +_I ( my top is probably if it counts , yoshiko and the key of evil spirits opening ) 
+2 -_W My favorite ... this is hard . 
+3 +_W Shinkenger's pretty good . Black RX is amazing . Both of Go-Busters are great . I think I have to go with Akibaranger's 
+4 +_A s1 akibaranger has such a well produced theme 
+0 -_I There's no way to make a post visible to just your local TL and not federated TL 
+1 -_Q correct ? 
+2 -_W I don't think there is 
+3 +_T thanks 
+4 -_A didn't think so 
+0 +_I Those good good kids ! A good way to spend my ride to work <URL> 
+1 +_A Bless Kagura . 
+2 *_I in sentai i tend to gravitate toward yellow femmes ( mio in toq , luka in gokai ) 
+3 +_I but kagura is rlly cute . Tokkatti is also my precious child 
+4 +_I I'm cliche , I tend to love the Pink Rangers :D Shinken Pink best of all , but I can think of many others . MomoNinger was a bright spot in a show 
+5 *_I I otherwise didn't get much out of 
+6 *_I Before I came out I used to go my anon so my last username before coming out was anon 
+0 +_I That friend who came to visit ... brought me back to a song we used to listen to ... It describes so many things . ... and it danced ... Tagging <MENTION> and <MENTION> specifically , but it is for everyone . <URL> ( Jackson's Kite ) 
+1 +_T Thank you . 
+0 *_H hey 
+1 +_I finally one of the shitposting crew arrives 
+0 +_I Deleted my Facebook account a few days ago and I never felt so free in my entire life . 
+1 +_E Now I just have to encourage my closest friends to do the same . 
+2 +_I It shouldn't be that hard . 
+3 -_I They are as tired of social media as I am . 
+4 +_A Awesome ! I must have deleted mine about 2 or 3 years ago now . I haven't looked back . 
+0 *_I im gay but also like nb people a lotwait im nb does that mean im gay but also like girls a lot 
+1 *_I weird that they call it " straight " when it's a relationship between supposedly orthogonal genders 
+0 *_Q my face ? 
+1 -_Q ugly ? 
+2 -_I its more likely than you think 
+3 +_D Very Wrong 
+0 *_Q my face ? 
+1 -_Q ugly ? 
+2 -_I its more likely than you think 
+3 +_D you're hella cute tho 
+0 +_I Deleted my Facebook account a few days ago and I never felt so free in my entire life . 
+1 +_E Now I just have to encourage my closest friends to do the same . 
+2 +_I It shouldn't be that hard . 
+3 -_I They are as tired of social media as I am . 
+4 +_A That's great ! I deactivated my Facebook account a couple of years ago and the only time I ever went back was a couple of months later to permanently delete it . I don't miss it at all . 
+0 *_Q my face ? 
+1 -_Q ugly ? 
+2 -_I its more likely than you think 
+3 *_D > 0 = still pretty small so i think ur safe either way <3 
+0 *_I Today is the first day of the rest of the day 
+1 -_I didn't need this kind of pressure today , jerk 
+0 +_I Deleted my Facebook account a few days ago and I never felt so free in my entire life . 
+1 +_E Now I just have to encourage my closest friends to do the same . 
+2 +_I It shouldn't be that hard . 
+3 -_I They are as tired of social media as I am . 
+4 *_I It even exists tools for it . 
+0 -_I Am I one of those unicorns who really do not care if there are people from my country on a social service I use ? It can be in a game , on a forum , on a social media network . 
+1 -_I For the most part , I don't care , but it get's a bit lonely to never use my native language on social media - after being anon anon anon anon ™ on at least one FLOSS networks in the last couple of years . 
+2 -_D Whaat . I know so many Floss anon : o 
+3 *_S You should visit FSCONS : > 
+4 +_A I'd love to visit FSCONS , 
+5 +_I and just looking at their site makes me want to submit a proposal - even though I've never done anything like that before . 
+6 -_I But , due to personal life events , I'm bound to stay home the coming winter :) 
+0 *_I before i knew what hypomania was i used to think not sleeping made me rly high-functioning and happy so i'd like . 
+1 -_I literally never sleep lmao it was kind of awful 
+2 +_I honestly though my best / most productive social interactions happen when i'm hypo and haven't slept . online at least . 
+3 -_I i'm fucking annoying irl when i'm hypo . 
+4 -_E i should probably go back to the doctor lmfao 
+5 -_A definitely feel you with being at my most productive when i'm having a mania episode 
+6 -_I but for me it's also kinda scary cos it's hard to put the brakes on 
+0 *_I Today in California , melting snow and frigid waters . <URL> 
+1 *_O That thing about hell freezing over , how did that saying go ... ? 
+2 *_W Something something something ... Microsoft SQL on Linux :) 
+0 -_I i'm not going to buy your game if it doesn't run on linuxactually can't believe i'm saying this 
+1 *_I I just buy games I don't play anyway so it doesn't really matter if they run or not 
+0 +_H ah welcome to Britain . 
+1 *_I it's that one day of the yearhttps url url url 
+2 -_I That's cheating . 
+3 *_I I want to see a five minute walk on HOT SAND into the English Channel . I know there is stretch of searing sand somewhere near the burnt old old Pier . 
+0 -_I idk anyone on here 
+1 *_E and i need to follow more people 
+2 *_I so could y'all boost if you talk about - communism-lgbt liberation-disability activism or if you're just cool and gay and wanna be friends ✌ ️ 
+3 *_I as long as you're trans and nb inclusive I got lots of friends to share ;-) 
+0 *_I Today is the first day of the rest of the day 
+1 *_D today is the last day of today 
+0 -_I In a meeting with five white men . And am the only woman . 
+1 +_V aghmuch strength to you 
+0 +_I Deleted my Facebook account a few days ago and I never felt so free in my entire life . 
+1 +_E Now I just have to encourage my closest friends to do the same . 
+2 +_I It shouldn't be that hard . 
+3 -_I They are as tired of social media as I am . 
+4 +_V Welcome to the other side ! 
+0 *_I what if : mastodon crossed with eve online 
+1 -_I <MENTION> That's pretty much just like connecting Mastodon to a feed of Nigerian email scams in your spam folder . 
+0 -_I ironically i also have to trim my eyebrows because they are yuuuuuge 
+1 +_D that's not irony , anon . 
+2 -_D ironically it is 
+3 -_I ironic shitposting is still shitposting 
+0 *_O When did my birdsite timeline become hard vore 
+1 -_W You follow too many furries 
+0 +_O Are there regions on earth who got weather like spring or fall in Germany , but the whole year around ? 
+1 +_W That would be the perfect place .. At least weather-wise . * melting * 
+0 +_W Are there regions on earth who got weather like spring or fall in Germany , but the whole year around ? 
+1 +_W That would be the perfect place .. At least weather-wise . * melting * 
+2 +_A That's why I'm asking . 
+3 -_I Got sunburns yesterday , 
+4 +_I but the cloudy morning was great . 
+0 -_I also uuuugggghhh my email is gonna be down for a bit while I migrate dns providers 
+1 -_R ( long story don't ask ) please don't email me until tomorrow :( 
+2 *_I This is why I still think it's preferable to host your email with some serious business infrastructure instead of rolling your own . 
+0 *_I So I saw the trending hashtag #theresavsboris and thought of Alien v Predator . #tories #ge2017 
+1 *_A Especially the tag line : Whoever wins , we lose . 
+0 *_I before i knew what hypomania was i used to think not sleeping made me rly high-functioning and happy so i'd like . 
+1 -_I literally never sleep lmao it was kind of awful 
+2 -_A really big same fuck 
+0 -_I my cousin tagged me in this group photo on fb and i look terrible in it i want it Deleted . 
+1 -_I I literally had to delete my Facebook to get " friends " to stop tagging me , and when you delete your Facebook , people forget you exist . 
+2 -_A yeah this is the unfortunate truth , kinda like that for most social media though in my experience 
+0 +_I are cute 
+1 +_A all commies are beautiful 
+0 -_I my cousin tagged me in this group photo on fb and i look terrible in it i want it Deleted . 
+1 -_I I literally had to delete my Facebook to get " friends " to stop tagging me , and when you delete your Facebook , people forget you exist . 
+2 +_A it's pretty good , 
+3 +_I you can finally have peace and don't have to see the shit tier image macros they are addicted to 
+0 -_I paging <MENTION> with today's trash <URL> 
+1 *_R Can I use that track under CC-by-sa ? 
+2 *_E I want to put it in this game : <URL> 
+3 +_A Thats also so cool , making a game with scheme , 
+4 *_Q weho says funcprog cant be awesome ? 
+0 +_I It's been on my mind for a long time , but I * really should actually totally truly absolutely * make a Neocities site sometime . 
+1 +_I i made one a month ago and i love it . theres something really oddly relaxing about coding 
+0 -_S You don't have to accept everyone's apologies . 
+1 +_I You're allowed to walk away from people who've hurt you 
+2 -_S and you don't have to forgive them if you don't want to . 
+3 -_I Sometimes just cutting someone off is better than making peace with them . 
+4 +_T thank you for saying this 
+0 -_I my cousin tagged me in this group photo on fb and i look terrible in it i want it Deleted . 
+1 +_I i thought you can remove tags when you are being tagged . 
+0 -_I I really like how , in Blender , to get rid of error message pop-ups faster you simply wiggle your cursor around in an aggravated way 
+1 -_I I didn't know about that , blender is the best 
+0 -_I I'm tired and anxious . Nothing I can do to ease my anxiety while I'm tired , and I'm not getting any shut-eye while I'm anxious . 
+1 -_R Send help . 
+2 *_Q Caffeine and calorie intake ? 
+3 +_I I have recently cut both and am now much more mentally alert , less " sleepy " / needing less stimulant and sleep much better . 
+4 +_S I strongly recommend it . 
+5 +_T Thanks for the advice , 
+6 *_D however I never drank coffee , 
+7 -_I and I'm not eating much these days , 
+8 +_I so I'm pretty sure I can rule both them out . 
+0 *_Q everything okay ? - 
+1 +_I i'm GREAT ! 
+2 +_A yes you are 
+3 *_I it's in OITNBand she says that aggressively lmao 
+0 +_I Despite the disappointing , most of you are beautiful humans who deserve boundless love and kindness . I'm so glad you are here . ❤ 
+1 -_E if fucking Nazis harass you , I'm more than willing to gang up on them . 
+2 +_I They're cowards . If 3-4 friends join in , they'll turn tail and flee . I do this on facebook for any of my friends who get targeted . 
+0 +_I Despite the disappointing , most of you are beautiful humans who deserve boundless love and kindness . I'm so glad you are here . ❤ 
+1 +_T NO UIn all honesty , I really appreciate you and all the hard work you do for others 
+0 *_O So how long until #Facebook starts selling this data in real time to #Uber so they can strategically target drunk people with surge pricing ? <URL> need #platformcoop . #surveillancecapitalism 
+1 -_W there is already a suspicion of #Uber overcharging women , when it's late during the night … 
+0 *_I an advice column where people send in answers and i provide the questions an advice column aimed at advice columnists a paper mache column made out of advice columns 
+1 +_I i like the first one 
+0 -_I if only y'all saw how much of a damn disaster i was during the video chat with anon last night oh My God 
+1 *_E you can livestream next time . 
+0 *_I I am currently the AC rep for the UK Government 🇬 🇧 I joined at the start of the year , so am still getting to grips with things.You can read my personal blog at <URL> you want to call or email , my contact details are on <URL> 
+1 +_H welcome , nice to meet you.anon anon , 
+2 +_I Invited Expert in the Social Web WG , also a member of indieweb . Nice Blog . 
+0 +_I Turns out there might be a ban on [ state-mandated ] encryption backdoors from the EU , that sounds great <URL> 
+1 *_D it is only a proposal of a work-group 
+2 +_I it is a reasonable proposal . 
+0 *_I Spotify name Justin Bieber wack ass a " Latin " king . 
+1 -_I Spotify is official canceled . 
+2 -_S If you have a premium plan with them cancel it . 
+3 -_J what the Hell ... 
+4 -_I this has got to be a joke 
+5 -_D nope . It is an ad the promoted . 
+0 -_I I feel like we've lost some important things in moving from physical letters to electronic ones . For instance , I just wasted two hours and a perfectly good monitor trying to sign this e-mail in blood 
+1 -_A sealing your emails with wax is probably the hardest part 
+0 -_I checks local timelineam i the loudest one on CF ; - ; 
+1 +_A That's because you're a cutie shark . 
+0 -_I Calling in sick today 
+1 *_I I am tempted every day to do that haha 
+0 -_I Calling in sick today 
+1 *_O Because you are , or because you want to ? 
+2 +_V If the first , get well soon . 
+3 +_V If the latter , enjoy ! 😄 
+0 *_H Good morning 
+1 *_O Mastofriends did you know I'mhttps url url url 
+2 *_W aw , 
+3 -_M sorry :( 
+0 -_S Note for future me : Make sure you have enough free space before attempting to upgrade debian . 
+1 *_I I think it's going to be OK , but a bit of manual jiggery-pokery has been required so far . 
+2 *_I As long as you can still boot it's fixable . I had an Ubuntu upgrade blow up in spectacular fashion due to space issues but I was able to fix it with some very careful aptitude-fu . 
+3 +_A Yeah it turned out fine , 
+4 -_I but had to do a bit of apt-get - f install , remove / var / lib / apt / extended_states as it got corrupted , and a few reinstalls of selected packages . 
+0 +_I TFW you arrive at the train station on schedule , which is something trains themselves cannot accomplish 
+1 +_A Truly , you are a god among trains . 
+2 -_I indeedMind you , it's only 34 minutes late right now , so that's like nothing 
+0 *_H Hello children 
+1 *_H * wavewave * 
+0 *_Q You ever interested in doing a google hangout ? 
+1 +_I I like talking to people who escaped the fundie trap . 
+2 +_A Sure - I'm available evenings , weekends , and every other Friday . 
+0 *_I The perfect Linux distro : Arch , but without Lennartware . 
+1 *_V oh , 
+2 *_Q so Void ? 
+0 -_I When I was younger , I thought the old man was only slightly less monstrous than a psychotic ogre . 
+1 *_I But after reading some of the the #dadquotes I now realise I was in fact , living in an Arcadian utopia . ' What are you drinking boy ? ' A firm , later , favourite . 
+2 *_I Dads always look better through the kind lens of time . 
+3 +_I To be fair , he was a bloody good father.This is his favourite photo I took of him . 
+4 *_I He called it , Truculence Personified . ' <URL> 
+5 +_J Awesome ! 
+6 +_I He looks like a hell of a guy . Nice pic . :) 
+7 +_J Cheers , 
+8 +_A he was great . I Based my act on him . 😉 
+0 *_I I'm testing the mesh variant of ! Freedombone on Debian Stretch . It looks like it probably will work , but the network device names are foobarred , because systemd . 
+1 +_J Interesting , 
+2 +_T thanks ! 
+0 -_I You'd think IT people would know to talk into the mic , but no 
+1 *_Q Have you seen Defcon sometimes ? ? 
+0 *_Q Will Ken Ham's Ark Park endure ? <URL> 
+1 -_W I suspect in 10 years we'll be seeing it on some abandonporn website . 
+2 -_A Maybe . I fear it will be the site of an amazing bonfire , and heaps of ashes make for poor abandonporn . 
+0 -_Q is this something i'd need a literature degree to understand ? 
+1 -_A Yes . 
+2 -_I i guess i'll never know then ~ 
+3 -_R Don't say that , 
+4 *_I you never know when an impromptu urge to get a literature degree arises 
+0 +_I Welp , I finally snapped and bought a Switch . 
+1 -_I Gotta wait for it to land in my mailbox though . : T 
+2 *_R expect me asking you a shit ton of questions as soon as the Switch lands LOL 
+3 *_O Such as ? 
+4 +_E I may already answer you as I already played some at some friends ' place 
+5 *_W like what's the overall feeling of the joy-cons ? Are they small / flimsy ? Also battery life ... is it any good ? And how about the heatsink , does it get hot ? 
+0 +_I anyways i'm watching terrace house and Guy is so fucking adorable :( so is anon . & 
+1 -_I i hate anon . lmao 
+2 -_O when will anon leave :/ 
+0 *_O What's happening there ? 
+1 -_Q It's still slow ? 
+2 -_A yea , horribly so . 
+0 *_I everyone on mastodon is posting about suddenly waking up at 5am / earlier than they were supposed to.This feels like a bad omen . Did we all wake up at precisely the same time . 
+1 *_J spooky 
+2 *_I I woke up at 5a local time too . 
+3 *_J Spooky . 
+4 -_J oh shit 
+5 *_I another one 
+6 *_I so I looked it up . I remember it saying 5am , I didn't remember the minutes though , and it was nearly 6am ... 
+0 -_I In a meeting with five white men . And am the only woman . 
+1 +_S Show them :-) 
+2 -_I The combination of mansplaining and whitesplaining is driving me to alcohol . And I can't drink anymore . 🙄 
+3 *_I Well I don ' t know if I can help because I'm white and male , and almost middle-aged also . 
+0 *_Q sysadmins : is barman ( the pg backup tool ) is ok ? 
+1 +_A yup . Restores the full database through . 
+0 -_I In a meeting with five white men . And am the only woman . 
+1 +_I So we know there is at least one brain in the room . Maybe just one . 
+0 -_J Damn 
+1 -_I WINE libraries breaking my install . - _ - 
+2 *_I and they said a little bit wine would make no harm :D 
+0 *_I ! listening to Gravetemple — A Karma Karmai <URL> | #dark_ambient #drone #experimental 
+1 *_M Sorry ;-) 
+2 -_I You didn't change the address for the list ! listening - still the old one ... 
+3 +_D I removed an old " listening " group and I added a new one to my account :/ 
+4 *_O What else can I do ? 
+5 *_W And you should then logout and then login again . 
+0 +_I The perfect Linux distro : Arch , but without Lennartware . 
+1 -_I I don't know about that 
+2 *_S but if you want something close to what Arch was circa 2010 and without Lennartware , give #VoidLinux a try <URL> ! It's got the cool init system « runit » . 
+0 *_I Tooting right from Bahrain . 
+1 -_O What did I miss folks ? 
+2 *_S Let's smash some pigs . ACAB . 
+3 -_I Protesters were beaten in Lebanon by the parliament guards but I think but that's it 
+4 +_V ( also hope you enjoy your time ) 
+5 -_F Wait what ? 
+6 -_O Why ? When did this happen ? 
+7 +_T And thank you 
+8 *_W no idea my Lebanese mutuals retweeted it , and it was the day before I replied to your tweet in 
+9 -_M ( sorry for the late reply I don't open mastodon much ) 
+0 -_I std :: mem :: swap : how can something so wrong feel so right :p 
+1 +_D why is it wrong ? It's a nice abstraction ! 
+0 *_I listening to Gravetemple — A Karma Karmai <URL> | #dark_ambient #drone #experimental 
+1 *_M Sorry ;-) 
+2 -_I You didn't change the address for the list ! listening - still the old one ... 
+3 *_I I removed an old " listening " group and I added a new one to my account :/ 
+4 -_O What else can I do ? 
+5 -_Q When removing the old one - didn't you got an error message ? 
+6 -_I GnuSocial has problems to remove a non existing address . 
+7 *_S Perhaps you can add ! listening again with the new address without removing the old one . 
+8 *_Q Do you see a message ? 
+0 *_J omg 
+1 +_I i just remembered about numbers stations <URL> 
+2 +_J oooooohhhh man , 
+3 *_Q have you ever listened to the conet project ? 
+4 *_I it's a bunch of audio samples from old numbers stations 
+0 +_S Go to the Cataracts Provincial Park for me if you get the chance . 
+1 *_I I saved it to my favorites on Google Maps for some reason . 
+2 +_I I guess I thought it looked nice . 
+3 +_V Enjoy your trip ! 
+4 +_D I'll keep that in mind maybe later in the summer . 
+5 *_I This trip I'll be along the west coast of newfoundland . I'll have to get some information and see if I can get down to the sand dunes out there 
+0 *_O I'll bite , how ? 
+1 *_O Or maybe I should say , how the heck did you do that ? 
+2 *_W Using an alley ball that somehow managed to have a sharp edge on the thumb hole that caught skin as I released . 
+3 -_J Ouchie . 
+4 *_V I hope they took that ball out of play after you told them . 
+5 *_A yup . It was a bit of a surprise to say the least . 
+0 *_Q SHOULD I GROW A MUSTACHE ? 
+1 *_Q DO YOU WANT TO REACH PEAK 70S ? 
+2 *_W I DONT GET THE REFERENCE BUT I LIKE THAT WE ARE IN CAPS 
+3 +_A ME TOO , I ENJOY TYPING IN CAPS , ITS FUN 
+4 *_I One of my social networks has a #CAPSLOCK channel for just that reason . 
+0 -_I how can people still use that site when it injects nauseating clickbait in between your friends posts . 
+1 -_A but it's still terrible 
+0 *_I my " it's too hot outside to support human life " face 
+1 -_J damn 
+2 +_I you're cute , 
+3 -_A but also , same . fuck this heat 
+0 -_I Am I one of those unicorns who really do not care if there are people from my country on a social service I use ? It can be in a game , on a forum , on a social media network . 
+1 -_I For the most part , I don't care , but it get's a bit lonely to never use my native language on social media - after being anon anon anon anon ™ on at least one FLOSS networks in the last couple of years . 
+2 +_I I know so many Floss anon : o 
+3 *_S You should visit FSCONS : > 
+0 *_A me neither 
+1 -_I I also wound up in an argument with a close friendon the plus side I'm going to get laundry-folding and dishes done before my advisor meeting 
+0 -_I leaking negative energy 
+1 +_I cofe gives full power to beat away the negative energy 
+0 *_D probably not . 
+1 +_I My laptop is now nice and runs smoothly . 
+2 *_I Well I have another older laptop , but that wouldn't be in daily use . 
+3 *_O What OS do you have installed on your laptop ? 
+4 *_I I only have one machine , so I tend to break things once in a while . 🙂 
+5 *_W I don't remember what's there . Might be Debian Jessie . I haven't started it in ages . 
+6 -_I Besides it's lacking battery , so it's annoying to use . 
+7 -_I My laptop is ancient and only works when plugged in energy too . 
+8 *_O But what I meant was : what OS do you currently use on your main machine ? 
+0 *_O who else ? 
+1 *_I Practice is everything , theory is nothing in this case 😒 
+2 -_D I see your point but I'm not completely sold on it ... 
+3 *_I because it is not " right " . Still the state is one of the main contractor and seller of goods and services , besides all chickentalk of free market liberals . so theory counts more than an " ignore it right the way " adresses 
+0 *_I when UK people scream about the heatwave but weather report shows only 30C 
+1 *_A 36 ° C at Paris right now :P 
+0 *_I Mesh testing . It looks like on Stretch the wifi adaptors aren't detected . Investigating why . 
+1 *_O What kind of mesh ? As in , what are you using to set it up ? 
+0 *_I im gay but also like nb people a lotwait im nb 
+1 *_Q does that mean im gay but also like girls a lot 
+2 *_W my rule is when you're nb everything is gay 
+0 *_I Mesh testing . It looks like on Stretch the wifi adaptors aren't detected . Investigating why . 
+1 *_Q is there a good starting point for learning about mesh in Debian ? 
+0 *_R Help help help 
+1 +_I I like cuties taller than me but I also like to pick cuties up and carry them and the latter tends to be difficult when combined with the former just because of how unwieldy it would be . 
+2 *_R surround yourself with multiple cuties ! 
+3 +_A I find this an agreeable solution ! 
+0 *_Q has grain retention been improved lately tho ? 
+1 -_I It was pretty bad last time I watched HEVC content 
+2 *_W dunno , but unless you crank up the bitrate really high , I doubt that it's possible to preserve it in the first place 
+3 *_A yeah obviously more grain would necessitate a higher bitrate , but if you have to crank it up all the way to h264 levels then it's not really interesting x ) but I'm sure this will be fixed not too far down the line , if it isn't already 
+0 -_I Painfull #debian upgrade : - No network ( interface names changed ); - Mysql database corrupted ; - Python 2 broken ( problem with python-openssl ) . 
+1 -_R can you stop lying please ? 
+2 +_I It's written on the Debian news that " As always , Debian systems may be upgraded painlessly , in place , without any forced downtime " <URL> 
+0 -_I The number 46 is not sticking in my mind . I have to spend many moments remembering that I am neither 36 nor 56 , and I'm not sure that my usual feud with the nature of time accounts for it entirely . 
+1 +_V Happy birthday , dear . * hug * 
+0 *_R Sorry , unpack that for me ? 
+1 *_I ah , I don't read non pairing stories . <URL> 
+2 *_J Oh . OHhh . ... Yeah , 
+3 *_I HP : MoR is Gen . They're kids . 
+4 *_I basically any fic where the main plot is not the relationship is gen . 
+5 *_A Ah . ... Right . 
+0 *_I CRUX MASTERRACE 
+1 *_I never heard of CRUX . 
+2 *_O What init does it have ? 
+0 -_I Got an appointment with the psychiatrist on July 20th , finally . 
+1 +_R Please wish me luck . 
+2 +_I I was also super brave for asking for help . So there's that . I deserve credit for that . 
+3 +_A you absolutely do 
+4 +_V and i hope you prosper in therapy ❤ ❤ 
+0 *_I Just get Arch #ArchIsTheBest 
+1 -_I It is . Until some update inevitably breaks everything . 
+2 +_A sure but it usually fixes itself the next day or so 
+0 -_I Painfull #debian upgrade : - No network ( interface names changed ); - Mysql database corrupted ; - Python 2 broken ( problem with python-openssl ) . 
+1 -_A You are not the only one complaining about MySQL databases . It happened with a lot of people . 
+2 +_I My network is only working because I manually downloaded a Debian Jessie firmware . 
+0 *_H Good morning worlds ! Good morning planets ~ Good morning furry elephant , good morning saber-toothed instances.Good morning friends ! 
+1 *_H Hello 
+2 *_H Hello hello anon ! 
+3 *_H Hello , 
+4 *_R remind me to take my keyboard to be looked at on the weekend , please ? 
+5 *_A That ’ s like 1000 days away ! ( yes , okay ~ ) 
+6 -_I It hates me again - an intermittent problem . 
+0 *_I y'all i could b gettin my guts rearranged rn but im choosinh attending a 20min oxbridge workshop 
+1 -_I i hate my life 
+2 -_A lol sucks 
+0 -_I Can't say I like that idea , it's just turning tooting into a competition for the most faves . 
+1 *_I I mean you can support the project or something on liberapay if you have that euro a month to spare ... 
+2 -_I A cent is just too worthless , even a super-successful toot isn't going to raise more than a euro or two . 
+3 *_I if you made this a thing on Twitter , those X k tweets would be good business . ( And celebrities would cash in like crazy , if people actually bothered to prepay their accounts ) 
+0 -_I GitHub has a UI that now gives you a demerit for not having a code of conductSince this is Mastodon I suppose I should be explicit about saying I think this is stupid 
+1 *_I makes your repo ’ different since YYYY . 
+0 *_Q Should we bring Tits out Tuesday ( #TT ) to masto ? 
+1 *_W My squirrels are arguing with each other about this . I think anon [ 1 ] only hesitation is that I don't really have much to show ( yet [ 2 ] ) . She likes the idea , though . 1 . my Head Squirrel in Charge of Gender 2 . a hopeful insertion 
+0 +_I I'm alive and stuff ! Yay ! 
+1 +_I Alive is good ! : 3 
+0 -_I Before we had kids , my Wife and I used to hate the whiny and petulant peppa pig .. 
+1 +_I Now I'm sat here with my father's day daddy pig mug full of tea and everything is right in the world ( almost ) . 
+2 *_Q aww got any photos of you with it that you're willing to share ? 😊 
+0 +_I Another nice one on Englands Sunshine Coast <URL> 
+1 +_I 29 here ! 
+0 *_R one more stupid question ? 
+1 *_O How do I unblock people ? Say I have blocked an account but I want to unblock it how do I do that ? 
+2 *_W should be in account settings somewhere 
+3 *_A Yeah , I looked for it 
+4 -_I but didnt find it ... 
+0 *_O Is it me or it's not possible to make a text search in #mastodon ? <MENTION> 
+1 *_W You can only search for users or #hashtags , as far as I know . Someone implemented a full text search tool a while ago , I think , but it was somewhat controversial ( mainly because of privacy concerns ) . 
+2 -_D I dunno why privacy would be a concern - if people publish something public - it's public - weird ... 
+0 *_I my wife got all 900 korok seeds yesterday . 
+1 *_I what a nerd lol 
+2 *_A tell me about it ! 
+0 *_I The longer I'm on Mastodon , the more the Fed timeline feels like the birbsite . Local timeline will be the killer feature . imho 
+1 -_V I'm hoping for a lot of innovation here when it comes to timelines - looking forward to something distinctive coming up again . 
+2 +_I But must say , I like being able to change across both . 
+0 +_I Tiger & Bunny is such a weird take on the superhero idea and I love it . #anime 
+1 +_A I really loved Tiger & Bunny because it did such different things ! 
+2 +_I Didn't hurt that it was an excellent show on top of that as well ;) 
+0 *_I everyone on mastodon is posting about suddenly waking up at 5am / earlier than they were supposed to . 
+1 -_I This feels like a bad omen . 
+2 *_Q Did we all wake up at precisely the same time . spooky 
+3 *_W somewhere someone is always waking up , perpetual motion . 
+4 *_A i mean yes ... 
+5 *_I the great awakening . it's only some decades until the events in Shadowrun rulebook start ;D 
+6 -_I oh nodoing Anything is going to get incredibly difficult ... very overly copmlicated rules 
+0 *_I for cereal though <MENTION> just sits on the project creation screen , then it gives 502what ever Dx i'll just keep writing stuff 
+1 *_S host your own :p 
+2 *_I if you know a cheap ( like $ 1 ) alternative or something I will poke at it . but rn DO is all I'd lean toward and even then $ 5 / mo adds up : c 
+0 -_I The longer I'm on Mastodon , the more the Fed timeline feels like the birbsite . Local timeline will be the killer feature . imho 
+1 +_D there's probably a good analogy , but I haven't had any coffee yet :) 
+0 *_I Yesterday i finally brought my arcade cabinet back home . 
+1 -_I It needs some serious renovation . <URL> 
+2 *_Q will you document the renovation on mastodon ? 
+0 *_O which one will it be ? <URL> 
+1 *_W I'll take the soda can . 
+0 -_I The Tabadox of Choice : when you open too many background tabs at once and don't know which one to start at . 
+1 -_A It's a real life problem ! I open tabs all the time because I think I should read them , but end up not wanting to 😣 
+2 -_I I have tabs from months ago that I keep telling myself I'll get to ... I've been trying to use the Snooze Tab addon recently to keep the under control but I never seem to snooze them long enough ! 
+3 -_I you're doomed . It may be time to declare bankruptcy . 
+0 *_I I would like to remind you that you are all my children 
+1 +_I this kitty needs hugs 
+0 *_O Is the English word for Rhabarber really " pie plant " or is my dictionary trolling me 
+1 *_W never ever heard it called pie plant in the uk , just rhubarb . love that stuff . 
+2 +_A yeah , it's great . ( It's a mild laxative though , so you shouldn't eat too much of it ) 
+0 *_I Walked into a brainstorm . Production deadline for the job is Thursday.One of the creatives suggested building an app . 
+1 *_Q :-) Did you know the basic rules of project management . 
+2 *_I 9 women can deliver baby in 1 month . So your app is possible . 
+3 *_O TBH what did you say to them ? 
+0 *_I an instance for grumpy makers and Arch linux nerds 
+1 +_I I liked the domain 
+0 *_Q Is there a Scottish Mastodon yet ? 
+1 *_W Still waiting one from North Korea or China . ☆ （ ゝω ・ ） vｷｬﾋﾟ 
+0 -_I My favorite kind of bug in PHP : the one that says 200 OK with no content and no logging of any error . 
+1 *_I Assuming you mean it doing this on AndStatus or qvitter , it's the clients misinterpreting the status code as far as I can tell . There's never been genuine errors in the log when it occurs . 
+2 *_I Work code . Probably an exception handler eating exceptions again . 
+0 -_I My favorite kind of bug in PHP : the one that says 200 OK with no content and no logging of any error . 
+1 *_I Assuming you mean it doing this on AndStatus or qvitter , it's the clients misinterpreting the status code as far as I can tell . There's never been genuine errors in the log when it occurs . 
+2 *_I Work code . Probably an exception handler eating exceptions again . 
+3 +_I [ star wars clip in the death star ] " We're all okay ... here . 
+4 *_O How are you ? " 
+0 *_I everyone must research capitalism before declaring themselves one , akin to communists , socialists , etc . 
+1 *_Q " Oh , you're capitalist ? 
+2 *_R Name five prominent capitalists . " 
+3 *_W that's too easy . Those scumbags are on screen of every zombie box . 
+0 *_I I don't want to ruin the local buzz but I have some serious socially induced over stim . Normally gorging myself on fanfic would soothe the beast , but alas , I read it all . 
+1 *_I My mechanism for that is following the favourited / followed stories of whomever I just read . 
+2 +_I It's usually worth ... 
+3 *_Q something ? 
+4 *_Q you're into fandom ? 
+5 *_O Which , if you don't mind me asking ? 
+6 *_I I'm into football RPF at the moment , but I've had many love affairs with many fandoms . 
+7 -_I random stumbling around fanfiction.net mainly to the not-completely-awful nature of their app . 
+8 +_S you should check out archiveofourown.org - it's open source :) 
+9 *_R Though if you have tips on how to do a proper stumble through communities , I would deeply appreciate them . 
+10 *_O what sort of fic do you like ? 
+0 *_I im not gonna lie ... i would super rather be on mastodon full time than twitter 
+1 *_I it reminds me so much of 2000s internet ... the nostalgia 
+2 *_A Yes ! That was also one of my first thoughts : <URL> 
+0 *_Q Is there a Scottish Mastodon yet ? 
+1 *_R Please let it be oilbheint . 
+0 *_I no context : " Dn4D " 
+1 *_I Dungeons & 4 Dragons 
+2 *_I it was actually a joke about a theoretical 4D 200 sided diebut also im imagining this but D & D <URL> 
+3 *_R Imagine playing D & D with a 200 - sided die , 
+4 -_J holy shit 
+5 *_R imagine the wild magic table 
+6 *_D I can't because I've never played D & D because every game I join ends up dissolving before or like the day after starting : V 
+7 *_I i joined a dnd game once and we finished one single starter campaignit was a good dnd intimidate was a free action 
+8 -_E so i would just yell at everything until it was scared of mei managed to intimidate so hard 
+9 -_I i scared rats ؜ i was not a very good rogue 
+10 +_I I like to imagine you just running around screaming at everything until it yields , even doors 
+11 *_I we did actually try rolling intimidate on a door but fortunately we managed to just break it downthe person who was training us was not exactly pleased with our approach and informed us that we couldve just looked for the key 
+12 +_I honestly that was probably the best session because it was basically " Angry Rogue With Hammer and Bard Who Can Only Cause Damage With Jokes fight Like , Ten Rats " 
+13 +_I Nice , also of course you'd be using a hammer hahaha 
+0 *_I context : " Dn4D " 
+1 *_I Dungeons & 4 Dragons 
+2 *_I it was actually a joke about a theoretical 4D 200 sided diebut also im imagining this but D & D <URL> 
+3 *_R Imagine playing D & D with a 200 - sided die , holy shit 
+4 *_R imagine the wild magic table 
+5 *_D I can't because I've never played D & D because every game I join ends up dissolving before or like the day after starting : V 
+6 *_I i joined a dnd game once and we finished one single starter campaignit was a good dnd intimidate was a free action 
+7 -_E so i would just yell at everything until it was scared of mei managed to intimidate so hard 
+8 -_I i scared rats ؜ i was not a very good rogue 
+9 +_I I like to imagine you just running around screaming at everything until it yields , even doors 
+10 *_I we did actually try rolling intimidate on a door but fortunately we managed to just break it downthe person who was training us was not exactly pleased with our approach and informed us that we couldve just looked for the key 
+11 +_I honestly that was probably the best session because it was basically " Angry Rogue With Hammer and Bard Who Can Only Cause Damage With Jokes fight Like , Ten Rats " 
+12 +_I Nice , also of course you'd be using a hammer hahaha 
+13 +_I i honestly only picked rogue because i saw " high agility and acrobatics " and was like " Yes please " 
+0 *_I Apparently LineageOS is the current open source Android thing . 
+1 *_R Try going to their website and figure out how to install it . 😠 
+2 *_D But the wiki seems more helpful . 
+3 *_I Says to start you should find your device here and click on it for instructions : <URL> 
+4 -_I However , I can't seem to find any page that actually lists features , or which packages are included , or anything of the sort . WEIRD . 
+5 +_I There are many blogs explaining how to install and being phone specific . 
+6 *_I I have switched to LineageOS and pico gapps ( minimalistic gapp framework ) with f-droid ❤ 
+7 *_S Give it a try #opensource #LineageOS 
+0 -_I america running away from its history of long-term human rights abuses while suggesting that they embody the free world 
+1 -_I china produces a white paper every year detailing US human rights abuses over the preceding year and it's Very Good 
+0 *_R tell me your turn ons 
+1 *_A I have a long laundry list of kinks . 
+0 *_I omg i just remembered about numbers stations <URL> 
+1 *_I * hissing * numbers stationsurl url url url 
+2 +_I tons of other great videos on that channel too , ty 
+3 +_I oh thats cool i just searched youtube for numbers stations 
+0 *_I maybe we were wrong about correlation and causation again and actually the frogs turn the chemicals gay so lack of frogs makes the chemicals not turn anyone gay 
+1 -_O why do you have to blame the French again ? ! 
+2 -_D .. Oh , wait . 
+0 *_I maybe we were wrong about correlation and causation again and actually the frogs turn the chemicals gay so lack of frogs makes the chemicals not turn anyone gay 
+1 -_O why do you have to blame the French again ? ! 
+2 -_D .. Oh , wait . 
+3 *_W > frogs > turn chemicals gay > gay chemicals are hypergolic with ... stuff > french icbms used hypergolic fuels LOCKING ONTO THE CONSPIRACY HERE 
+0 *_H Good morning witches ☀ 💙 
+1 +_I I slept so well , feel so good today : 🌄 
+2 +_V hope you all feel the same ❤ 
+3 *_H Good morning anon ! 
+4 *_H good morning ! ! ! 
+5 *_I Actually I was thinking about you yesterday because it rained a lot . I took some photos but it doesn't feel like proper rainy season yet so I didn't post them 
+6 *_O 😄 how are you today ? 
+7 *_W Ooooh , thank you , that's really nice of you ＞ ﹏ ＜ . I'm fine , 
+8 +_T thanks for asking . 
+9 *_I But I need to start studying for my next exam , this afternoon . 
+10 *_I Beaks your leg :p 
+0 -_I Now ... I should start thinking about things I can do with my time that doesn't involve using my hands . Because my arthrosis is getting worse . But I NEED to use my hands all the time . 
+1 *_O How can people just don't do anything with their fingers ? ? 
+2 -_W I have / worry about this problem too . Joint problems mean my wrists are incredibly sensitive to RSI / general pain and there's increasing times where I'm like " welp can't actually .. um .. do any hobbies , actually . At all . Crud . " 
+3 -_S Oh sorry I only saw your reply now ! 
+0 *_H Mornin ! 
+1 -_I Gonna be a long day seeing how couldn't sleep props cos of the heat ! 
+2 +_I I finally managed to sleep . 
+3 *_I I realised that I'd become addicted to the sensation of having a duvet covering my body ! 
+0 -_I Shittily remastering all your pictures on a VCR for minimal picture quality 
+1 *_D WE CALL THIS THE INTERNET , ELIZA ! 
+0 -_I Shittily remastering all your pictures on a VCR for minimal picture quality 
+1 *_D aesthetic 
+2 *_I [ pink background with roman bust and japanese text ] 
+0 -_I Guess what : Summer fucking sucks and can go die in a hole.Worst season ever . 
+1 -_A instead of pleasant sunshine , season contained scorching heat and plagues of insects . would not axially orient again . 
+0 -_I i just want whites held accountable but that will never happen bc the world is run by white ppl 
+1 +_D it will happen . 
+2 -_I sometimes i feel rlly hopeless abt everything ... its probably just my depression coupled w my oppression + knowledge of others oppression , but still :/ 
+0 *_O Okay , so what's the point in going to sleep now ? 
+1 *_W none . Commie shitposting / discourse is much better for mental health than sleep in my experience 
+0 *_I Well i am awakies 
+1 *_I hey me too what a crazy coincidence 
+0 -_I yesterday was okay but here we are back in the bog 
+1 *_I pulls you out of that sludge 
+2 *_A * Pulls you out with me * 
+0 -_I I hate feeling excluded from convos because everyone is more vocal than me and never stops talking 
+1 -_D It can be a little much sometimes , I do read your stuff when I see it ! I just don't always have things to add :) 
+2 *_I oh I wasn't talking about Masto , I was talking about meatspace convos 
+3 +_I this is a relief . 
+4 -_I i was really trying to sort out what a good response would be <MENTION> . <MENTION> i agree that feeling sucks , I feel it often in meatspace myself . 
+0 *_I I have Cookie Clicker in the background and it keeps inspiring me to MAKE SOMETHING SO MUCH BETTER like come on it is shit and people still " play " it 
+1 -_D wait people still click the cookiewat 
+2 *_I people still make clones with different themes and even less appeal , like , heck , why , ugh 
+3 +_I i'm a fan of tyler glaiel's demake , i think it really gets to the core of the genre : <URL> 
+4 *_Q ugh , flash ? 
+5 *_A yeah idk i guess it's what he's familiar with . 
+6 *_I also it was made a couple years ago before flash starting being majorly phased out 
+0 *_Q Any topics to discuss ? 
+1 +_D No , we solved everything yesterday afternoon . 
+0 -_I Feelin ' kinda bleh . So much world to change , so little time . 
+1 +_S how about starting with one thing and moving then to the next ? :) 
+2 -_D it's hard to know what fire to put out when literally everything is on fire . ;) 
+0 -_O literally why are we so awfulurl url url url 
+1 -_W i know why but it still begs the question 
+0 *_Q are there any people who were in the onceler fandom , 
+1 *_R show yourself 
+2 -_R please delete this 
+3 -_I i dont want to know the heathens of this website 
+0 +_O why are sideM songs so good like im really 
+1 +_W sem saved my life 
+2 +_I study equal magic ! will always be iconic 
+3 +_I GOD HONESTLY sem is the only real reason i stay invested in sidem 
+0 *_M Sorry I haven't been very active . 
+1 *_I Just moved to Reno , so I'm trying to get some stuff figured out.Hopefully will have some new photos up soon-ish 
+2 *_Q reno ? 
+3 *_O why reno ? 
+4 *_W Cos I have some friends here and it's WAY cheaper than where I was at , plus some other issues that have been dealt with 
+0 *_I This took way too long to make but I hope this will settle the pizza debate once and for all 
+1 *_I not sure this goes far enough 
+2 *_S we need something like the political compass to really nail down everyone's position on pizza 
+0 -_I Today's cycling was very hot 🔥 and now I am a destroyed puddle on the ground 💧 
+1 +_I but feeling very very good nonetheless esp now I'm back home in the cool cave air ⛺ 
+2 *_Q Are you a puddle slime now ? <URL> 
+3 *_W this seems a good depiction of my current state 😂 
+4 +_I * puts you in a private pond with cool , clear water . * : 3 
+5 +_I this sounds really nice 💧 🏔 😘 
+0 +_I You exist . At least , for me . 
+1 +_T well , thank you for these words :) 
+0 *_H also hey . laurent from awakening is a Guy . 
+1 +_I He Sure Is A Character My Dudes 
+2 +_I that's my son i love him 
+3 +_T thank u nobody appreciates him 
+0 *_I #introductionsHi , I'm anon , an aspiring artist , working my way back to my first choice uni and baking as many cookies and cakes as I can along the way . I'm deaf and agender , I use [ xe / xem / xyr ] as my pronounsOther than that I'm an open book ! 
+1 *_O One thing I've always wondered about xe pronouns ( and I hope this doesn't come off as offensive because I don't mean it to be ! ) , how do you pronounce them ? 
+2 *_O Is it like zee / zem / zeer ? 
+0 *_I Typo madness tonight . 
+1 *_O But who cares ... 
+2 *_W the Grammar Police 😱 
+3 *_I I was referring to myself btw 
+4 *_I ah , fair enough . 
+5 +_I Nice to see you on line ... pretty much on my own yesterday . 
+6 *_O How's Colchester this morning ? 
+7 -_W the way it goes sometimes . I pop onto here or FB or Twitter and it's just tumbleweed . 
+8 +_W Happily not in Colchester today . Working from home in anon . 
+0 -_I anon kins are cursed 
+1 -_A this is true i was a really edgy 13 year old that <MENTION> ' d doubles and called them PoS and fake 
+2 -_A SDFDHKJHKFH HOLY SHITthats true hell 
+0 *_R Y'all : Hey join Mastodon ! Certified n * zi free ! Also mastodon : <URL> 
+1 -_I i'm gonna make sure i report the hell out of that account 
+2 *_I it's on another instance so i'm not sure there's much you can do 
+3 -_Q hm , is there a way to personally mute an entire instance if that's the user type they have ? 
+0 *_O how are you awake again ... or still awake wtf 
+1 *_W i really dont know , send help and alcohol im out 
+2 -_I y'all ugly 
+3 *_I leon trotsky engaging in discourse , 1924 colorized 
+4 -_I me and ry beating ur ass , 2017 digitised 
+5 +_I true tankie colours 
+6 -_I this took a sharp turn 
+7 -_R blame yourself 
+8 -_R blame andy's cop-ass neighbor 
+9 -_I hes stopped playing music but he's still watching some tv show SO LOUD 
+10 -_R beat ass 
+11 -_I ur advice is gonna land him in a legit prison lol 
+12 +_I i like how u think im actually gonna move from the couch 
+13 -_I couches aren't comfortable . 
+14 -_A um yes they are 
+15 *_O what kind of couches are in ur life 
+16 +_I beds are better 
+17 -_Q is this what mastodon groupchats are , 
+18 -_I i'm finished 
+19 -_I its like stream of consciousness writing im sjajajjsbdjskj 
+20 -_I DEADASS 
+21 -_I it's so glitchy tho that's the only thing 😭 
+0 *_O how are you awake again ... or still awake wtf 
+1 *_W i really dont know , send help and alcohol im outi really dont know , send help and alcohol im out 
+2 -_I y'all ugly 
+3 *_I leon trotsky engaging in discourse , 1924 colorized 
+4 -_I me and ry beating ur ass , 2017 digitised 
+5 *_I <URL> at me 
+6 +_I true tankie colours 
+7 -_I this took a sharp turn 
+8 -_R blame yourself 
+9 -_R blame andy's cop-ass neighbor 
+10 -_I hes stopped playing music but he's still watching some tv show SO LOUD 
+11 -_R beat ass 
+12 -_I ur advice is gonna land him in a legit prison lol 
+13 *_I i like how u think im actually gonna move from the couch 
+14 *_I mood 
+15 *_I me on any given day at any given moment 
+0 *_I Believe it ! <URL> 
+1 *_A almost right . 
+2 -_I the plumber shouldn't have a mustache since the mustache is an artifact of possession . 
+3 -_D but that's not how odyssey works . 
+4 *_I While I would love for Mario to throw his mustache to enemies to possess them , that role has been taken by Mustache Man 
+0 *_I Believe it ! <URL> 
+1 *_A almost right . 
+2 -_I the plumber shouldn't have a mustache since the mustache is an artifact of possession . 
+3 -_D but that's not how odyssey works . 
+4 *_I While I would love for Mario to throw his mustache to enemies to possess them , that role has been taken by Mustache Man 
+5 *_I that is how it works . entities only posess the mustache when posessed by the hat 
+0 *_I i have a page to pencil before i can send some comics off for review and start working on my MAIN webcomic hot diggity dang 
+1 -_I i'm tired already 
+2 -_I NOTHIN TO IT BUT TO DO IT THOUGH ! ! ! 
+3 +_I I DID IT ! ! ! 
+4 -_I good lord drawing comics when you've just worked an 8 hour work day and are sick is one of the worst things , ick . i've drawn during worse situations though , so ! ! 
+0 *_R Can anyone recommend a reliable hosting firm that offers storage servers ( i . e . multiple TB of disk space ) for cheap and * not * with ARM processors ? 
+1 -_I ' Cause my ARM experiment does not inspire confidence in me , server is super slow at retrieving and storing files 
+2 +_W I actually use a Hetzer StorageBox to host most of my Plex Media . Mounted via SMB , and works like a charm , even for streaming 1080p video . 
+0 *_I space listeners 
+1 *_O Which array is this ? 
+2 *_W ESO , ALMA antennas at the Llano Chajnantor 
+0 +_I AUGHHHH I am so excited for this shitshow 
+1 +_I I legit cant wait for this 
+2 *_I Judging from johhny v's twitter he is already wasteeeeedddd 
+0 *_I oh fuck it's 2 am 
+1 *_I time is flying 
+2 -_I time flies when you're enjoying cursed things 
+0 *_Q We're at Lockdown x4 now right ? 
+1 *_Q ? ? ? 
+2 *_I 2 9518091 anon <MENTION> <URL> 
+3 *_I gh , mom is still sleeping and I already shut down the pc and am in bed ; n ; 
+4 *_I awwIt's just the name of the song Giant Bomb uses for their intermission and it is super catchy 
+0 *_I There's a " British " pub in Cincinnati in the US . 
+1 -_I Its menu is literally the least British thing I have ever seen.url url url url 
+2 *_I Highlights : - Queen's nachos - Tortilla chips and a dip made from bangers ( yes , as in sausages ) - 
+3 *_Q Pub crisps ( served with sauce ? does not say what the crisps actually are ? ) - Mainstrasse Reuben 
+4 *_O ( ? ? ? Who ? ) - Pretzels 
+5 -_I Caprese Bruschetta - nothing about that is British XD 
+6 -_A I know right ! ! ! 
+7 *_I We're staying near a " British themed gay bar " in cali and are dying to find out if it has anything funny like this . All we know atm is there's a red phonebox just inside the door and they were blasting Depeche Mode . 
+8 +_A Yes , excellent . :D 
+0 -_I Since I didn't get in early on the mastodon.social instance , everyone I follow shows 0 followers ( in my instance , presumably ) . 1 ) it's weirding me out and 2 ) it's making it harder to find people to follow . 
+1 +_R Please send recs my way ! 
+2 +_I I can see your followers , I'm using Tusky client , 
+3 -_I not sure if it's your instance only , 
+4 -_Q or the app ? 
+5 +_J interesting ! 
+6 *_I I'm using Tusky , too , and when I view your profile , it only shows one follower ( me ) , one person you're following ( me ) , and one toot ( the one I'm replying to ) . Gonna have to do some digging ! 
+7 -_I that is strange , maybe there's something not synced between instances , 
+8 -_Q or lag ? 
+0 -_I Since I didn't get in early on the mastodon.social instance , everyone I follow shows 0 followers ( in my instance , presumably ) . 1 ) it's weirding me out and 2 ) it's making it harder to find people to follow . 
+1 +_R Please send recs my way ! 
+2 *_I Ohhhh , I just realized that's why your follow counts have an * next to them , I guess . 
+3 *_A that's what I thought ! 
+4 *_I But I'm on Tusky right now , which doesn't show the asterisk , so I wasn't positive . 
+5 -_A Yeah-across instances the numbers are not accurate . Sometimes it looks like a bot is following , but they may have a ton of posts and followers you don't see . 🤓 
+6 +_T 4 9518625 anon <MENTION> <MENTION> thanks for the info ! 
+7 *_Q Do you know if there's a way to see posts that don't pop up immediately ? 
+8 *_I Most people I've followed show only one or two . 
+9 *_Q Or were the missing ones just local posts on their respective instance ? 
+0 *_O what is your marxist analysis of costco 
+1 +_W I'm sorry but I can't talk trash about Costco . I owe too much to it 
+2 *_I lol ye they seem to support their own working class employees but im sure almost every company whos product they sell is extremely exploitative to 3rd world workers , which is how theyre able to be so profitable 
+3 *_A I mean yeah very true 
+4 *_I but what I was thinking of in that moment was all the hot pockets from there I've eaten and how they always have studio ghibli movies and the pizza 
+0 *_I I'm back on Amaroq . 
+1 +_I Mustor is prettier , 
+2 -_I but it's too slow and I keep getting errors 
+3 -_I too slow and keep getting errors " i feel attacked 
+4 +_I prettier tho 
+0 -_Q ( didn't we already follow each other ? Is that a bug ? ) 
+1 -_I I'm bad at following locals since I try to always be looking at the Consensual Hallucination anyways . 
+2 *_F hm . 
+3 *_I Fair , but I'm pretty sure I recall following you . Though I could be wrong . 
+4 *_Q I have similar memories but who can say ? I don't think my instance has lost data , maybe it was just different accounts ? 
+0 *_O if you had an exact clone and had sex with it would it be sex or masturbation 
+1 *_W masturbation 
+2 *_A i mean i think so too but assume you dont share the exact same thoughts at the same time , 
+3 *_O like how far does the brain dissonance have to go before its sex ? ? 
+4 *_W th point where you cant guess each others thoughts i guess ? ? ? 
+5 *_A hmm tru that . 
+6 *_I i cant guess what my own thoughts will be like a day from now tho 
+0 -_I i think anon misbehaved once and anon put him on horse tranquilizers and i believe this 
+1 -_R please god get anon outta that K-hole 
+2 *_I safety him 
+0 -_I because this is getting way too much attention it wasn't even that funny <URL> 
+1 +_I LMAO 
+2 *_O why you still on twitter though ? 
+3 -_W i'm trying to get all my other friends to get on here before i deactivate ! 
+4 -_I I might have to do that too . Some ain't migrated yet . It's an issue . 
+5 -_I some of my mutuals are waiting for more leftists go get on here 
+6 *_O and i'm like 🙄 what are you waiting for ? ? ? 
+7 -_I then again i did have to spend hours to figure out how to work this site haha 
+8 -_Q lol was it that hard ? ? 
+9 -_W i'm not that good with technology or websites 
+10 -_A so yeah .. 
+11 -_A well yeah , the whole instances thing is kind of confusing tbh . 
+0 *_I my friend knew a matpat kin once 
+1 *_I I USED TO BE TUMBLR MUTUALS WITH A MARKIPLIER KIN BUT I DIDNT KNOW WHAT FACTKIN WAS 
+2 *_Q SO I WAS JUST " ISNT THAT A REAL PERSON ? WHY ? UH ? OK " AND MARKIPLIER WAS ONE OF THEIR MAIN KINS FHDNJFNFKFNF 
+3 *_J ho LY FU C KKK 
+4 *_I THAT WASNT EVEN THE REASON I BROKE MUTUALS IT WAS BC THEY ALSO SHARED A KIN WITH ME A T THE TIME 
+0 -_I i havent seen an openrp on here im sad 
+1 -_I DON'T 
+0 *_I Alright new users , just a reminder that I'm gay and so is the instance . 
+1 *_Q Are you ? 
+2 *_W good to know . 
+0 -_J Holy shit 
+1 -_I I don't think I will ever get rid of the shakes when doing any public speaking . 
+2 -_I I've the same affliction . ( Even when it's a room of people I know . ) 
+3 -_I or however many times I talk to the same crowd . 
+4 -_I ditto . not really sure what ultimately unnerves me by public speaking . it just does , in ways that normal discourse doesn't . And I find I'm rarely much better with phone teleconferences . 
+0 +_I im super into syntax btw and minimalism is ... intriguing 
+1 +_I I'm semantics and pragmatics too ( mainly since I come at it via philosophy of language ) and also sociolinguistics ( esp gender-neutral language ) . Also some Japanese syntax . It's great to have more syntax folks here . 
+2 +_H Welcome ! 
+0 +_I I thought Mastodon had weird memes like 2 months ago , but the new generation is taking it to the next level 
+1 +_I I am so proud of Mastodon for constantly attracting weirder and weirder people 
+0 -_I using Subway Tooter though it seems a bit clunky compared to the browsee version , might have to experiment some 
+1 -_I Might I suggest twidere . Subway tooter can feel a little shifty with it's functions at times . 
+2 +_I Oh , this actually feels much better ! 
+3 +_T Thanks for the tip ! 
+4 -_I Anytime , the only really complaint that I have with twidere is a small one . Much of the terminology it is birdsite related.But I guess that helps with the adjustment to mastodon . 
+0 -_Q How are we supposed to live in a world where we expect people to accept bisexuality when we can't even accept that people can like cats and dogs without a preference ? 
+1 -_I I think the cats or dogs question is the root of the issue . 
+2 -_W Cats are lowkey fash af 
+3 -_I i don't understand how people can hate cats . I have a friend who literally won't touch them bc she thinks they're disgusting and I'm like girl it's a cat 
+4 -_I Superstition's probably 
+0 +_I th-there are a lot of cute girls in the Sonic comics 
+1 +_Q aren't there * sweats * 
+2 +_W Oh heavens , you're in for quite a lovely time . 
+0 *_I atsushihasasecret 
+1 *_O what is the secret <MENTION> 
+2 +_W he's an omega 
+3 +_A Same tbh <MENTION> 
+0 *_J #OpenRPuh-HNNNgnnngnnnnnnggghnnnn … . my widdle toesies … ! … … .. uwah ! ! ! hhhhhnggmmmmgggg .. hhhhhhnhhhjhnhjnjnggggggggggg … . my WIDDLE toesies ! ! ! oooh <URL> 
+1 -_R delete this 
+2 -_D i can't 
+3 -_O what the fuck ? the fucK ? the actual fuck ? 
+0 *_I i guess it just means we really do need to make our own instance 
+1 *_Q at least it's an option ? I guess ? 
+0 -_I OPEN RPBOYS , I GOT MY DICK STUCK IN THE HONEY POT AGAIN . #нσηєу уσυ αяє му ѕυηѕнιηє ❁ ( self ) #ιмαgιηαtιση ιѕ tнє кєу tσ ѕєℓƒ ∂ єѕтяυ ¢ tιση ❁ ( ic ) # ¢ няιѕtσρнєя яσвιη gяєω υρ tσ вє α 🅕 🅤 🅡 🅡 🅨 ❁ ( angst ) 
+1 -_O God damn it Pooh . Why does your dick have to be so god damn big . 
+0 +_I i like how everyones referring to twitter as " birdsite " 
+1 *_I Yeah well , it a matter of not letting the biresite dominate the discussion . 
+2 -_I Despite all the trapping of it , mastodon isn't the birdsite nor should it ever be . 
+0 *_I i guess it just means we really do need to make our own instance 
+1 *_Q can it be invite only this time ? is that a feature ? 
+2 *_A yep <MENTION> anticapitalist.party is invite-only . 
+3 *_I <MENTION> soc.ialis.me is open , but seems chill 
+4 *_Q could y'all hook ya girl up w / an invite ? 
+0 +_I i love my girlfriend i want to hold her in my arms and kiss her and tell her everything will be okay ? 
+1 -_I i dont knwo why everything woudlnt be okay but i want to let her know . 
+2 +_I THIS IS SOME FUCKING GAY SHIT ! ! ! I LOVR YOU SO MUCH 
+0 -_Q the question is will they let us poor civilians get these one day ? <URL> 
+1 -_Q rather have the aa12 
+0 *_Q did u guys know that ive smithed hotarumaru 3 times and gotten him from an event once ? 
+1 *_I thats 4 hotarumarusthats a lot 
+2 *_I one hotarumaru staring at you from each corner of your room 
+0 +_I Ok so I made a video game . 
+1 *_Q Do I have to start putting #gamedev in my bio now ? Is that a rule ? 
+2 +_W I think you do 😉 I haven't gotten to play yet , but I'll be able to tomorrow ! Looking forward to checking it out . 🙂 
+0 +_I Springboy is so cute ... love him 
+1 *_I springboy / helix is my ship I've decided 
+2 *_I helix jello up springs bussy 
+3 -_I be careful of yeast infections 
+4 -_I dont like this 
+0 *_O wheres my follow 
+1 *_O WHAT D U MEAN 
+2 -_W YOU DIDNT FOLLOW ME BAC 
+3 *_A YES I DID U FUCC THE FOLLOW IS PENDING 
+4 *_R ACCEPT MY FOLLOW 
+5 *_J WTF 
+6 -_I I DONT UDNERSTNAD IM NOT PRIVATE ? ? ? I DIDNT GET A REQUEST 
+7 *_I IT SAYS MY FOLLOW IS PENDING 
+8 -_I I DONT EVEN KNOW WEHER TO ACCEOT 
+0 *_I Tiny pickles > > > giant pickles 
+1 +_I I think all pickles are wonderful , 
+2 -_I and I don't want to size-shame any pickles ( some people prefer large pickles ! ) 
+3 +_I but I love tiny pickles . 
+4 +_I these pickle replies are improving my day ! ( I also love fried pickles ! ) 
+5 +_I ok we need to start our own instance just for pickle love ... 
+6 +_Q pickle.town ? 
+7 +_W I NEED DIS . 
+8 *_I the only emoji is 🥒 and posts not about pickles are deleted . 
+9 -_I uh oh I don't have that emoji . 
+10 -_Q Is there a pickle emoji I don't have ? ? ? 
+11 -_I 😱 sorry I have to block and report.There ' s a cucumber emoji , 
+12 -_Q which I figure is close enough ? 🥒 
+13 -_W I don't have a cucumber ! ! Damn ... I miss all the good stuff . 
+0 *_O what are your zodiac's ? 
+1 *_I i'm a virgo . 
+2 *_W Pisces sun sis 
+0 *_I since the Archie Sonic comic is coming to an end maybe i should actually read some of it 
+1 *_Q are there any particularly good arcs that folks can recommend or is it all bad ? 
+2 +_W it's all GOOD pretty much . Seriously ! It's a solid comic 
+3 -_I ok but i don't have the patience to get through like 290 issues ( 512 if you count all the spinoffs ) , 
+4 *_I so i kind of wanna know an arc that would get me interested 
+0 *_R stick your dick in a console . wild out . live your life man 
+1 -_Q can you uh , block me 
+0 *_Q is it bad to watch an art stream and just ... copy them 
+1 +_W im pretty sure it's ok as long as u don't post it anywhere online 
+0 *_Q is it bad to watch an art stream and just ... copy them 
+1 +_W it's good practice ! 
+0 *_R Just bring out anon anon 
+1 -_D ugh nooooo I still need like 20 minutes to get home . 
+2 +_I Thankfully they're usually the last ones 
+3 *_I Gotta go out with a bang and lets face it they're the real main event of e3 lol 
+0 *_R Just bring out anon anon 
+1 +_I That panel seemed nice , but I've had enough VR talk 
+2 +_T thanks 
+3 *_Q wait have you seen anon's past stuff with his phone and then last year with JV and his autocorrect stuff ? 
+4 +_I Those are must watch imo 
+5 -_W I have not . 
+6 *_W I only recently started watching GB stuff because one of my friends got me watchin ' At Nite 
+0 +_I Makes sense that the first bit of art I put up on Masto is the icon I drew in a rush when I was signing up and was scrambling for something to put , ha ha . #art #mastodonart 
+1 *_H hello ! 
+2 *_H Hey there ! o / 
+0 -_I Sometimes I wish I had a hint of a southern accent . That way I could ditch my boring middle American anywhere accent and embrace a cowboy anarchist aesthetic 
+1 *_I I can slip in and out of a drawl at will but I mostly mumble anyway so it doesn't generally make a difference 
+0 *_R gimme a toot tootgimme a awooo awoooo 
+1 -_I runnnin my thumbs through masto it's like hell yes boost boost 
+0 *_I Okay , I know how that sounded . 
+1 *_R Send me a link to your games , I can make an exception . 
+2 *_Q this is not a reply to anything ( ? ? ? ) 
+3 *_W Oh , I said I am giving up video games for a bit , and you are a game dev , so I felt that I accidentally devalued video games . I was replying to a conversation in my head . 
+0 -_Q can i interact with anything from my past without getting inexplicably sad ? 
+1 -_D the answer is no ! <URL> 
+2 *_Q can u interact with this block tho <URL> 
+3 *_W to the gulag anon 
+0 +_I part two . the not blurry version.url url url url <URL> <URL> 
+1 *_J : O ! ! ! 
+2 +_I theyre so cute ! ! 
+3 +_T thank you ! ! ! 
+4 +_I i love him 
+0 -_Q can i interact with anything from my past without getting inexplicably sad ? 
+1 -_D the answer is no ! <URL> 
+2 *_Q can u interact with this block tho <URL> 
+3 +_A yes , 
+4 +_R hit me with it 
+5 -_I i accidentally hit <MENTION> by mistake <URL> 
+0 *_I alternatively I'll get in bed & flirt at everyone from the security of this giant plush alligatorI've been hugging it so it's warm 
+1 +_Q would u like to be warm 🦁 💕 
+2 *_W Probably . I'm sitting outside and it's kinda breezy and chilly 
+3 +_I * large paw sticks out of the door , swats one ( 1 ) bunny & drags her back inside , between layers of blankets and an affectionate lioness * stim toy get ! ! 💋 
+0 *_O wus poppin 🅱 rom 🅱 to 
+1 *_O how the heck did u do that 
+0 -_I look jun u didnt demand it 
+1 -_I blease 
+2 -_O blease what 
+3 *_W the validate 
+0 *_I when ur astral and thats astral whos flying the plane 
+1 *_I anon 
+2 *_R ok listen 
+3 *_A im listening . 
+4 *_I heck u 
+0 +_Q you wanna talk about the love of my life ? 
+1 +_W what a cute bun ! ! ! 
+0 +_I on the birdsite i made a bot account that literally just tweets the lyrics to welcome to the black parade it's good 
+1 +_J OH Y GODL 
+2 +_I i also have a bot that tweets the lyrics to mr . anon ... very serious bots 
+3 +_Q i Love this ? 
+0 *_I sickle once convinced me to write " could vore a human " into my marine biology notes and i never ever removed it , if i were to find that notebook it would still be there . 
+1 *_I THT WAS LIKE SUPER SOON AFTER WE FIRST BECAME FRIENDS 2 
+0 *_I alright i have an important question that may make or break my friendship with y'all . 
+1 *_O waffles or pancakes ? 
+2 *_W the correct line on this is waffles ofc 
+3 +_I I'm glad we're on the same page 
+0 +_I anon and i were destined for friendship bc she sent me a tweet about captain underpants cumming and you cant turn back from that 
+1 -_M kfsjdkf sdjkf skj whats worse is i think that was like the first time ive ever talked to you i Apologhize 
+0 -_I I'm not looking at anyone's nudes unless they are sent directly to me w / proof of adulthood lol 
+1 -_I people have been misusing the content warnings for jokes so I've now seen a few unsolicited nudes 
+2 -_J Oh gahd , 
+3 -_M I'm sorry . 
+4 -_Q Did you report them ? 
+5 *_W I'm waiting a bit in hopes that this new wave of users will figure things out 
+6 *_I Fair enough . That's not a bad idea . If it is the same person / people , report them so we ( oh man I'm a mod now geez ) can let them know that's not okay . 
+7 *_Q oooo you're a mod now ? 
+8 *_A Yep . 😳 
+9 -_I I dunno what I'm doin ' . 👀 
+10 +_I im glad ! ! ! I'm gonna recommend anticapitalist.party to people again . You'll be good :) 
